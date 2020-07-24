@@ -1,5 +1,5 @@
 ### Hi there 👋
-Frontend Developer from Russia.
+I'm Frontend Developer from Russia.
 
 #### My Stack:
 - Languages: JavaScript, TypeScript
