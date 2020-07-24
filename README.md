@@ -2,9 +2,9 @@
 Frontend Developer from Russia.
 
 - My Stack:
-Languages: JavaScript, TypeScript
-Frameworks: Node, React, Redux
-Editor: VSCode
+-- Languages: JavaScript, TypeScript
+-- Frameworks: Node, React, Redux
+-- Editor: VSCode
 
 <!--
 **naumovarthur/naumovarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
